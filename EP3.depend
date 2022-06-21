@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1512174502 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\main.cpp
+	<iostream>
+	<string>
+	"Ponto.h"
+	"InterfaceSerial.h"
+	"Serie.h"
+	"SerieNormal.h"
+	"SerieTemporal.h"
+	"Eixo.h"
+	"EixoDinamico.h"
+	"EixoEstatico.h"
+	"Grafico.h"
+	"ErroDeArquivo.h"
+	"Tela.h"
+	"PersistenciaDeSerie.h"
+
+1512094485 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\eixo.cpp
+	"Eixo.h"
+	"iostream"
+	"stdexcept"
+
+1512176619 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\eixodinamico.cpp
+	"EixoDinamico.h"
+	"Serie.h"
+	"iostream"
+	"stdexcept"
+
+1512156531 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\eixodinamico.h
+	"Eixo.h"
+	"Serie.h"
+	"list"
+
+1512094539 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\eixo.h
+	"string"
+
+1512147181 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\serie.h
+	<string>
+	"Ponto.h"
+	<iostream>
+	<vector>
+
+1511295967 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\ponto.h
+	<math.h>
+
+1511296454 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\interfaceserial.cpp
+	"InterfaceSerial.h"
+	<stdio.h>
+	<vector>
+	<stdexcept>
+	<iostream>
+	<cctype>
+
+1511295926 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\interfaceserial.h
+	<string>
+	<windows.h>
+
+1511296482 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<math.h>
+
+1512147397 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\serie.cpp
+	"Serie.h"
+	<iostream>
+	<stdexcept>
+	<vector>
+
+1511718118 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\serienormal.cpp
+	"SerieNormal.h"
+
+1511718046 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\serienormal.h
+	"Serie.h"
+
+1511718289 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\serietemporal.cpp
+	<iostream>
+	<vector>
+	"SerieTemporal.h"
+
+1511718207 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\serietemporal.h
+	"Serie.h"
+	"Ponto.h"
+
+1512172155 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\grafico.cpp
+	"Grafico.h"
+	<stdexcept>
+
+1511737275 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\grafico.h
+	"Tela.h"
+	"Serie.h"
+	"Eixo.h"
+
+1511296146 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\tela.h
+	<string>
+	<map>
+	<vector>
+
+1512095069 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\eixoestatico.cpp
+	"EixoEstatico.h"
+	"iostream"
+
+1512094600 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\eixoestatico.h
+	"Eixo.h"
+
+1512174625 source:c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\src\persistenciadeserie.cpp
+	"PersistenciaDeSerie.h"
+
+1512174603 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\persistenciadeserie.h
+	<iostream>
+	<vector>
+	<fstream>
+	"Serie.h"
+	"SerieNormal.h"
+	"SerieTemporal.h"
+	"ErroDeArquivo.h"
+
+1512151069 c:\users\vinif\documents\engenharia elétrica - poli usp\2º semestre\lab. programação oo - pcs 3111\ep 3\ep3\include\errodearquivo.h
+	"stdexcept"
+
